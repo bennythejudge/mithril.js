@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/lhorie/mithril.js.svg?branch=master)](https://travis-ci.org/lhorie/mithril.js)
+[![Build Status](https://travis-ci.org/lhorie/mithril.js.svg?branch=master)](https://travis-ci.org/lhorie/mithril.js) [![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/mithril.js.svg)](https://www.guardrails.io)
 
 # Mithril
 
